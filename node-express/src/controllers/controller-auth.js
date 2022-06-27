@@ -1,13 +1,14 @@
 
-module.exports = ()=>{
+module.exports = (req, res)=>{
+
     
 }
-module.exports = ()=>{
+module.exports = (req, res)=>{
     
 }
-module.exports = ()=>{
+module.exports = (req, res)=>{
     
 }
-module.exports = ()=>{
+module.exports = (req, res)=>{
     
 }
